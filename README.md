@@ -22,10 +22,10 @@ Agri is a comprehensive agricultural platform developed during the **NASA Space 
 ## Team Members
 
 - Christine Maria Jose - [GitHub ID](https://github.com/Chriztymj)
-- Aarunya Retheep - [GitHub ID]()
+- Aarunya Retheep - [GitHub ID](https://github.com/aarunyaar)
 - Adhil P - [GitHub ID](https://github.com/AdhilP)
-- Dan Mody Mathew - [GitHub ID]()
-- Alan Sebastian - [GitHub ID]()
+- Dan Mody Mathew - [GitHub ID](https://github.com/danmody)
+- Alan Sebastian - [GitHub ID](https://github.com/alanSebastian2603)
 
 ## Getting Started
 
